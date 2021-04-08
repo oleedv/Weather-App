@@ -1,0 +1,37 @@
+PODS:
+  - Alamofire (4.9.1)
+  - GoogleMaps (4.0.0):
+    - GoogleMaps/Maps (= 4.0.0)
+  - GoogleMaps/Base (4.0.0)
+  - GoogleMaps/Maps (4.0.0):
+    - GoogleMaps/Base
+  - GooglePlaces (4.0.0):
+    - GoogleMaps/Base (= 4.0.0)
+  - SVProgressHUD (2.2.5)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.9.0)
+  - GoogleMaps
+  - GooglePlaces
+  - SVProgressHUD
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - GoogleMaps
+    - GooglePlaces
+    - SVProgressHUD
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  GoogleMaps: b7f7fc569a9b354a3af0d9729dbec40957b7d41e
+  GooglePlaces: ca8d4aba09ba79e0a829cf1dca03a41de6a09016
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: e24d70c5891c3b5adfde0e3008b8f7ae02c5a28c
+
+COCOAPODS: 1.10.0
